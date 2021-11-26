@@ -7,7 +7,7 @@ The official pytorch implementation is [here](https://github.com/microsoft/Swin-
 This implementation is developed by [PaddleViT](https://github.com/BR-IDL/PaddleViT.git).
 
 <p align="center">
-<img src="./swin_v2.png" alt="drawing" width="50%" height="50%"/>
+<img src="./swin_v2.PNG" alt="drawing" width="50%" height="50%"/>
     <h4 align="center">Comparison of the WindowAttention module between Swin Transformer V1 and Swin Transformer V2</h4>
 </p>
 
